@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_author">Book Author</string>
+    <string name="Uprooted">Uprooted</string>
+    <string name="The_Poppy_War">The Poppy War</string>
+    <string name="The_Cruel_Prince">The Cruel Prince</string>
+    <string name="Red_Queen">Red Queen</string>
+    <string name="The_Girl_Who_Fell_Beneath_the_Sea">The Girl Who Fell Beneath the Sea</string>
+    <string name="Daughter_of_the_Moon_Goddess">Daughter of the Moon Goddess</string>
+</resources>
